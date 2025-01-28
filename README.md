@@ -41,8 +41,10 @@ SERPER_API_KEY=your_serper_api_key_here
 ```bash
 python app.py (Backend)
 
-streamlit run your_script.py (UI)
+streamlit run st.py (UI)
 
+streamlit run test.py (To experiment)
+streamlit run ui.py (For diffferent ui)
 ```
 
 2. User Input:
