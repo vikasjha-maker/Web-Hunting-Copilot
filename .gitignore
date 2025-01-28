@@ -1,0 +1,18 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.xlsx
+*.txt
+*.json
+
+# IDE
+.vscode/
+.idea/ 
