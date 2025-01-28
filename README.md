@@ -75,3 +75,16 @@ streamlit run ui.py (For diffferent ui)
 - Some queries may timeout or fail - these are logged separately
 - Results are saved automatically after each scan
 
+## Future enhancements
+
+- Need to integrate in future:
+- Bing
+DuckDuckGo
+Yandex.ru
+Yahoo
+Baidu
+DuckDuckGo
+Naver
+AOL
+Qwant
+Ecosia
